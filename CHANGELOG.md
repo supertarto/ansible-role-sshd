@@ -1,3 +1,7 @@
+## v25.11.2
+Add validate before restart
+Change templates rights
+
 ## v25 11.1
 Remove vars, directly install package
 
