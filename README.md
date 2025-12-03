@@ -1,4 +1,4 @@
-# Ansible SSHD
+# Ansible Role SSHD
 [![CI](https://github.com/supertarto/ansible-role-sshd/actions/workflows/ci.yml/badge.svg)](https://github.com/supertarto/ansible-role-sshd/actions/workflows/ci.yml)
 
 Ansible role to install and configure SSHD on Debian.
